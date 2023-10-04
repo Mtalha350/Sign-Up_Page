@@ -1,2 +1,4 @@
 # Sign-Up_Page
-I Developed this portfolio website using HTML,Css &amp; Javascript. This website is not responsive To See The Landing Page Visit:
+I Developed this portfolio SignUp page using HTML,Css and Javascript.
+This Sign-Up page is responsive.
+To See The Page Visit:👉 https://sign-up-or-sign-in.netlify.app/
